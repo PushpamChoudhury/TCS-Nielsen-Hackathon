@@ -3,7 +3,7 @@ This project was developed as part of the TCS-Nielsen Hackathon contest organize
 
 # Approach
 Our approach includes three distinct views namely:
-- *Consumer view:* Provided consumers information about the availability of a particular product in their vicinity. This included retailer information for the desired location. The consumers could also query a product based on its health characteristics, which warned users about any possible medical condition caused due to the use of a product and provided safe alternatives.
+- *Consumer view:* Provided consumers information about the availability of a particular product in their vicinity. This included retailer information for the desired location. The consumers could also query a product based on its health characteristics.
 - *Retailer view:* The retailers can query the products based on sales to determine the future stocks to order. The information provides the retailers an efficient way to manage their inventory.  
 - *Manufacturer view:* The manufacturers can use this view to check the performance of a specific product in a geographic location and receive feedback about the product from the consumers as well as retailers.
 
